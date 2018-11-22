@@ -1,0 +1,40 @@
+Ground truth comparison:
+  translational_rmse=   0.059064
+  translational_mean=   0.053606
+  translational_median= 0.008000
+  translational_std=    0.025810
+  translational_min=    0.008000
+  translational_max=    0.099962
+  rotational_rmse=      4.252298
+  rotational_mean=      3.354774
+  rotational_median=    1.752230
+  rotational_std=       2.719650
+  rotational_min=       0.256027
+  rotational_max=       7.953001
+Time Taken: 66.212s
+
+ATE
+compared_pose_pairs 13 pairs
+absolute_translational_error.rmse 0.058956 m
+absolute_translational_error.mean 0.053553 m
+absolute_translational_error.median 0.061971 m
+absolute_translational_error.std 0.024655 m
+absolute_translational_error.min 0.008741 m
+absolute_translational_error.max 0.099653 m
+
+RPE
+
+compared_pose_pairs 169 pairs
+translational_error.rmse 0.156432 m
+translational_error.mean 0.116033 m
+translational_error.median 0.088294 m
+translational_error.std 0.104916 m
+translational_error.min 0.000000 m
+translational_error.max 0.436380 m
+rotational_error.rmse 5.606834 deg
+rotational_error.mean 4.672352 deg
+rotational_error.median 3.942706 deg
+rotational_error.std 3.099309 deg
+rotational_error.min 0.000000 deg
+rotational_error.max 10.809896 deg
+
