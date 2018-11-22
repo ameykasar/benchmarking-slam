@@ -1,0 +1,27 @@
+Time taken:
+93.4713
+
+ATE
+compared_pose_pairs 1289 pairs
+absolute_translational_error.rmse 0.540840 m
+absolute_translational_error.mean 0.479137 m
+absolute_translational_error.median 0.481310 m
+absolute_translational_error.std 0.250870 m
+absolute_translational_error.min 0.061989 m
+absolute_translational_error.max 1.335146 m
+
+RPE
+compared_pose_pairs 9982 pairs
+translational_error.rmse 1.495594 m
+translational_error.mean 1.221529 m
+translational_error.median 1.077356 m
+translational_error.std 0.862942 m
+translational_error.min 0.000000 m
+translational_error.max 3.556190 m
+rotational_error.rmse 14.294484 deg
+rotational_error.mean 12.000669 deg
+rotational_error.median 11.186213 deg
+rotational_error.std 7.766352 deg
+rotational_error.min 0.000000 deg
+rotational_error.max 41.168630 deg
+
